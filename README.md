@@ -1,0 +1,1 @@
+# Log generator program to write directly to S3 bucket
