@@ -6,8 +6,8 @@ UIN: 670875073 <br />
 The homework is distributed across 3 repos.
 1) EC2 deployable LogGenerator - THIS REPO
 2) Lambda function - ([Link](https://github.com/anveshcma/HW2-Lambda))
-3) gRPC server and client - ([Link](https://github.com/anveshcma/CS441-HW2))
-4) REST client - ([Link](https://github.com/anveshcma/CS441-HW2))
+3) gRPC server and client - ([Link](https://github.com/anveshcma/CS441-HW2-gRPC-REST))
+4) REST client - ([Link](https://github.com/anveshcma/CS441-HW2-gRPC-REST))
 
 ## Setup
 - Create a EC2 instance (suggested t2.large or better ).
