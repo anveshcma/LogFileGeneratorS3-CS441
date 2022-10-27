@@ -10,7 +10,7 @@ The homework is distributed across 3 repos.
 4) REST client - ([Link](https://github.com/anveshcma/CS441-HW2-gRPC-REST))
 
 ## Setup
-- Create a EC2 instance (suggested t2.large or better ).
+- Create a EC2 instance (suggested t2.large or better) with Amazon linux 2 AMI.
 - Create a new IAM role with S3 write access and assign it to this instance.
 - SSH into the instance and install java and SBT.
 - Copy the contents of this repo into the instance file system using secure copy or git clone this repo.

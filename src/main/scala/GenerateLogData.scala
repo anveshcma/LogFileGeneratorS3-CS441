@@ -10,10 +10,6 @@
 
 import Generation.{LogMsgSimulator, RandomStringGenerator}
 import HelperUtils.{CreateLogger, Parameters}
-import com.amazonaws.AmazonServiceException
-import com.amazonaws.regions.Regions
-import com.amazonaws.services.s3.{AmazonS3, AmazonS3ClientBuilder}
-
 import java.io.File
 import java.nio.file.Paths
 import collection.JavaConverters.*
