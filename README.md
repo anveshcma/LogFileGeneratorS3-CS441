@@ -23,4 +23,7 @@ The homework is distributed across 3 repos.
 - Optionally a CRON job can be setup to invoke the program in a scheduled manner.
 
 ## Video demo
-LINK
+Part 1 - EC2 Log file generator ([Link](https://www.youtube.com/watch?v=GisMXmrRnmQ))
+## Output
+### EC2 log generation complete
+![EC2 1000 logs output](https://drive.google.com/uc?export=view&id=1uP4sz_8YSM3Z8aJpPCsTJmbSutIB8Wdh)
